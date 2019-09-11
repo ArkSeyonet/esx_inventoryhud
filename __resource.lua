@@ -134,6 +134,8 @@ files {
   'html/img/items/xanax.png',
   'html/img/items/joint.png',
   'html/img/items/cbaggie.png',
+  'html/img/items/pbong.png',
+  'html/img/items/ebong.png',
   'html/img/items/GADGET_PARACHUTE.png',
   'html/img/items/WEAPON_SNSPISTOL.png',
   'html/img/items/WEAPON_FLAREGUN.png',
