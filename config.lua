@@ -11,6 +11,8 @@ Config.CloseUiItems = {
     "headbag",
     "documents",
     "bong",
+    "pbong",
+    "ebong",
     "tequila",
     "cigarette",
     "defib",
@@ -36,10 +38,10 @@ Config.CloseUiItems = {
     "meth_pooch",
     "weed_pooch",
     "liquor",
-    "pbong",
     "notepad",
     "binoculars",
     "joint",
     "xanax",
+    ""
 }
 
