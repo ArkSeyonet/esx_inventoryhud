@@ -31,7 +31,15 @@ Config.CloseUiItems = {
     "gintonic",
     "lighter",
     "milk",
-    "snack"
-
+    "snack", 
+    "coke_pooch",
+    "meth_pooch",
+    "weed_pooch",
+    "liquor",
+    "pbong",
+    "notepad",
+    "binoculars",
+    "joint",
+    "xanax",
 }
 
