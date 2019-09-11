@@ -42,6 +42,6 @@ Config.CloseUiItems = {
     "binoculars",
     "joint",
     "xanax",
-    ""
+    "narcan",
 }
 
