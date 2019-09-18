@@ -20,6 +20,8 @@ ESX.RegisterServerCallback(
 	end
 )
 
+
+
 RegisterServerEvent("esx_inventoryhud:tradePlayerItem")
 AddEventHandler(
 	"esx_inventoryhud:tradePlayerItem",
